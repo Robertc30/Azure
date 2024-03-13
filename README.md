@@ -1,6 +1,6 @@
 # Azure
 <p align="center">
-<img src="(https://imgur.com/eQH6CE9)"/>
+<img src="https://imgur.com/eQH6CE9"/>
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
