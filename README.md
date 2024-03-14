@@ -14,7 +14,7 @@
 <h2>Operating Systems Used </h2>
 
 - Installing Windows Windows 10 Pro 2 vcpus 16 GiB memory
-
+<img src="https://i.imgur.com/R4D6bUG.png/>
 <h2>Installation Steps</h2>
 
 <p>
