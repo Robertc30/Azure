@@ -21,7 +21,7 @@
 <img src="https://i.imgur.com/MD5K4wR.png/>
 </p>
 <p>
-Installing Windows Windows 10 Pro 2 vcpus, 16 GiB memory
+Installing Windows Windows 10 Pro 2 vcpus 16 GiB memory
 </p>
 <br />
 
