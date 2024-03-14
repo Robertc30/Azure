@@ -16,9 +16,12 @@
 - Installing Windows Windows 10 Pro 2 vcpus 16 GiB memory
 <img src="https://i.imgur.com/R4D6bUG.png"/>
 <h2>Installation Steps</h2>
-
+1. Create Azure account
+2. Search for Virutal Machine or VM
+3. Name your VM and create login infomation
+Side note: If no resources are found one will be created for you
 <p>
-<img src="https://i.imgur.com/MD5K4wR.png/>
+<img src="https://i.imgur.com/MD5K4wR.png>
 </p>
 <p>
 
